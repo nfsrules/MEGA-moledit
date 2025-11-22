@@ -10,7 +10,8 @@ The code will be available here soon. Stay tuned!
 
 ## Resources
 
-- **Dataset**: [nfsrulesFR/mega-moledit-522K](https://huggingface.co/datasets/nfsrulesFR/mega-moledit-522K)
+- **Dataset (522K)**: [nfsrulesFR/mega-moledit-522K](https://huggingface.co/datasets/nfsrulesFR/mega-moledit-522K)
+- **Dataset (Large - 62M)**: [nfsrulesFR/mega-moledit-large](https://huggingface.co/datasets/nfsrulesFR/mega-moledit-large)
 - **Model (SFT)**: [nfsrulesFR/mega-sft](https://huggingface.co/nfsrulesFR/mega-sft)
 - **Model (GRPO)**: [nfsrulesFR/mega-grpo](https://huggingface.co/nfsrulesFR/mega-grpo)
 
