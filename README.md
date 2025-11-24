@@ -4,10 +4,6 @@ Official implementation of **MEGA: A Large-Scale Molecular Editing Dataset for G
 
 **Paper**: [MEGA: A Large-Scale Molecular Editing Dataset for Guided-Action Optimization](https://openreview.net/pdf?id=wzou4rm3Tt)
 
-## Code Coming Soon
-
-The code will be available here soon. Stay tuned!
-
 ## Resources
 
 - **Dataset (522K)**: [nfsrulesFR/mega-moledit-522K](https://huggingface.co/datasets/nfsrulesFR/mega-moledit-522K)
@@ -26,3 +22,4 @@ The code will be available here soon. Stay tuned!
   url={https://openreview.net/forum?id=wzou4rm3Tt}
 }
 ```
+
