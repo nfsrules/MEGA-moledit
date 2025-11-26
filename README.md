@@ -6,8 +6,8 @@ Official implementation of **MEGA: A Large-Scale Molecular Editing Dataset for G
 
 ## Resources
 
-- **Dataset (522K)**: [nfsrulesFR/mega-moledit-522K](https://huggingface.co/datasets/nfsrulesFR/mega-moledit-522K)
-- **Dataset (Large - 62M)**: [nfsrulesFR/mega-moledit-large](https://huggingface.co/datasets/nfsrulesFR/mega-moledit-large)
+- **Dataset (1M)**: [nfsrulesFR/mega-moledit-522K](https://huggingface.co/datasets/nfsrulesFR/mega-moledit-522K)
+- **Dataset (Large - 57M)**: [nfsrulesFR/mega-moledit-large](https://huggingface.co/datasets/nfsrulesFR/mega-moledit-large)
 - **Model (SFT)**: [nfsrulesFR/mega-sft](https://huggingface.co/nfsrulesFR/mega-sft)
 - **Model (GRPO)**: [nfsrulesFR/mega-grpo](https://huggingface.co/nfsrulesFR/mega-grpo)
 
@@ -22,4 +22,5 @@ Official implementation of **MEGA: A Large-Scale Molecular Editing Dataset for G
   url={https://openreview.net/forum?id=wzou4rm3Tt}
 }
 ```
+
 
